@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#Tal Yoffe
 import MySQLdb
 import sys
 import os
