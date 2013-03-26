@@ -1,11 +1,17 @@
 #!/usr/bin/python
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0fb9bf41ec7edb0058e1ef168e151b3f814eb645
 #Tal Yoffe
 import MySQLdb
 import sys
 import os
 import platform
+<<<<<<< HEAD
 import logging
+=======
+>>>>>>> 0fb9bf41ec7edb0058e1ef168e151b3f814eb645
 
 
 
