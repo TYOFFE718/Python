@@ -22,7 +22,7 @@ logger.addHandler(hand)
 
 try:
     logger.info("attempting to connection to Database")
-    db = MySQLdb.connect(host="localhost", user="root", passwd="brooklyn77", db="world")
+    db = MySQLdb.connect(host="localhost", user="root", passwd="*******", db="world")
     
 except Exception as e:
     logger.error('Error connecting to database!')
